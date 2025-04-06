@@ -12,5 +12,5 @@ Cloud Engineer with 4+ years of experience in infrastructure automation, CI/CD, 
 
 ##  Contact
 
-📧 [Email](mailto:shelkeshraddha5@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/shraddha-shelke-6b40141b3/)
+ [Email](mailto:shelkeshraddha5@gmail.com)  
+ [LinkedIn](https://linkedin.com/in/shraddha-shelke-6b40141b3/)
